@@ -12,10 +12,6 @@ public class Field {
         this.gui = gui;
     }
 
-    public char[][] getField() {
-        return field;
-    }
-
     public void resetField() {
         this.field = new char[3][3];
     }
@@ -75,9 +71,5 @@ public class Field {
             }
         }
         return false;
-    }
-
-    public char getCell(int row, int col) {
-        return field[row][col];
     }
 }

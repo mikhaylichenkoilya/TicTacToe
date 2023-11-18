@@ -2,6 +2,6 @@ package com.github.mikhaylichenkoilya.ticTacToe;
 
 public class Test {
     public static void main(String[] args) {
-        GUI gui = new GUI();
+        new GUI();
     }
 }
