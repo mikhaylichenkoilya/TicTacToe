@@ -1,4 +1,4 @@
-package com.github.ilya.TicTacToe;
+package com.github.mikhaylichenkoilya.ticTacToe;
 
 import javax.swing.*;
 import java.awt.*;
